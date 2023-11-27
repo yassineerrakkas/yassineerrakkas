@@ -1,4 +1,5 @@
 <p ><h1 align="center" style="color:#001d3d; background: #fe921f;line-height: 90px;margin-top:40px" ><i><b>Hi 👋,</i></b> I'm ERRAKKAS YASSINE </h1></p>
+<br>
 <p align="center">  
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=d8315b&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+ERRAKKAS+YASSINE;A+Software+Engineering+student+at+INPT;I+hope+you+enjoy+my+profile..." alt="Typing SVG" />
